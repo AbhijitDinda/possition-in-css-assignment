@@ -1,0 +1,11 @@
+Relative positioning:- 
+* Places an element relative to its current position.
+* Can be moved.
+* Does not change the layout around it.
+* Is positioned relative to itself.
+
+Absolute positioning:-
+* Places an element relative to its first positioned parent.
+* Changes the layout around it.
+* Is positioned relative to its closest positioned parent.
+* Works like fixed, relative to the window.

@@ -1,0 +1,32 @@
+
+.container{
+    border: 1px solid grey;
+    overflow: auto;
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(255, 250, 242);
+    
+}
+.content{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+
+}
+.wr{
+    flex:2;
+    text-align: justify;
+
+    
+}
+.im{
+    flex:1;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+    
+}
